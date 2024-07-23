@@ -22,5 +22,5 @@ Non siamo responsabili per eventuali danni derivanti dall'uso di Shield.
 ## 7. Indennizzo
 Accetti di indennizzarci da qualsiasi rivendicazione derivante dal tuo utilizzo di Shield o dalla tua violazione di questi Termini.
 ## 8 Contatti
-Per domande riguardo questi Termini di Servizio, contattaci a [inserisci il tuo indirizzo email di contatto].
+Grazie per aver scelto Shield! Per qualsiasi problema, domande o preoccupazioni contattaci direttamente sul nostro supporto ufficiale di Discord: https://discord.gg/gDndJud2HG
 

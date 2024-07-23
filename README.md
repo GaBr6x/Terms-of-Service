@@ -1,1 +1,1 @@
-# Termini di Servizio Shield
+# Termini di Servizio di Shield
